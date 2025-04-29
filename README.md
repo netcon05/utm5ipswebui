@@ -38,4 +38,4 @@ The setup instructions will be based on the Debian GNU/Linux distribution
 
 - Run the application
 
-    `python3 utm5ipswebui/app.py`
+    `python3 app.py`
