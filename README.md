@@ -10,11 +10,11 @@ The setup instructions will be based on the Debian GNU/Linux distribution
 
 - Clone the repository
 
-    `git clone https://github.com/netcon05/nc-utm5ips.git`
+    `git clone https://github.com/netcon05/utm5ipswebui.git`
 
 - Enter the folder
 
-    `cd nc-utm5ips`
+    `cd utm5ipswebui`
 
 - Create virtual environment
 
@@ -38,4 +38,4 @@ The setup instructions will be based on the Debian GNU/Linux distribution
 
 - Run the application
 
-    `python3 app.py`
+    `python3 utm5ipswebui/app.py`
